@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+Extended version [here](/files/GCM_CV_serio.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Modeling and Engineering Risk and Complexity, Scuola Superiore Meridionale, 2024
+* M.S. in Automation engineering, University of Naples Federico II, 2020
+* B.S. in Automation engineering, University of Naples Federico II, 2018
 
-Work experience
+Academic experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2022, 2023, 2024: Visiting Ph.D. student
+  * New York University, Center for Urban Science and Progress, Dynamical Systems Laboratory
+  * Supervisor: prof. Maurizio Porfiri
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020: Erasmus master student
+  * Royal Institute of Technology (Kungliga Tekniska högskolan -- KTH)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2019: Volunteer staff member
+  * European Control Conference 2019 (ECC19), Naples, Italy  
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Summer 2014: High-school summer intern
+  * Stanford University
+  * Fuller Research Group
   
-Talks
+Editorial activity
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2026 - present: Associate editor
+  * European Control Conference
