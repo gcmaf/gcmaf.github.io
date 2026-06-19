@@ -88,6 +88,8 @@ publication_category:
     title: 'Books'
   preprints:
     title: 'Preprints'
+  inpress:
+    title: 'In Press'
   manuscripts:
     title: 'Journal Papers'
   conferences:
