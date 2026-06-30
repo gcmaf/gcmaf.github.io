@@ -5,5 +5,5 @@ category: inpress
 date: 2026-10-01
 authors: "C. Tomaselli, G.C. Maffettone, S. Wu Fung, L. Nurbekyan, M. di Bernardo"
 venue: "IEEE Control Systems Letters"
-paperurl: "http://arxiv.org/abs/2603.18658"
+paperurl: "https://ieeexplore.ieee.org/abstract/document/11574638"
 ---
