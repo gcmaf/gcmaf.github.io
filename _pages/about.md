@@ -17,18 +17,12 @@ I obtained a Ph.D. in Modeling and Engineering Risk and Complexity at Scuola Sup
 
 News
 ======
-* July 2026: **Two new papers accepted in IEEE Control Systems Letters**
-
+* July 2026: **Two new papers accepted in IEEE Control Systems Letters**<br>
   I am happy to share that two new papers have been accepted for publication in *IEEE Control Systems Letters*:
-
-  **C. Tomaselli, G.C. Maffettone, S. Wu Fung, L. Nurbekyan, M. di Bernardo**, “[Mean-field control barrier functions for stochastic multi-agent systems](https://ieeexplore.ieee.org/abstract/document/11574638),” 2026.
-
-  **D. Salzano, G.C. Maffettone, M. di Bernardo**, “[Robust multi-scale leader-follower control of large multi-agent systems](https://ieeexplore.ieee.org/abstract/document/11556503),” 2026.
-
-  Both papers will also be presented at **CDC 2026** in Honolulu, Hawaii.
-
+  * **C. Tomaselli, G.C. Maffettone, S. Wu Fung, L. Nurbekyan, M. di Bernardo**, “[Mean-field control barrier functions for stochastic multi-agent systems](https://ieeexplore.ieee.org/abstract/document/11574638),” 2026.
+  * **D. Salzano, G.C. Maffettone, M. di Bernardo**, “[Robust multi-scale leader-follower control of large multi-agent systems](https://ieeexplore.ieee.org/abstract/document/11556503),” 2026.
+  Both papers will also be presented at **CDC 2026** in Honolulu, Hawaii.<br>
   These works look at different aspects of the control of large-scale multi-agent systems, from safety guarantees in stochastic settings to robust multi-scale leader-follower strategies.
-
 * February 2026: New paper out on Automatica! In this work, with Alain Boldini (NYIT), Maurizio Porfiri (NYU) and Mario di Bernardo (UNINA) we propose a bio-inspired leader-follower strategy for density control of multi-agent swarms. The key idea: rather than prescribing fixed roles, leaders and followers can plastically switch their roles over time, much as many natural systems do. Control objectives are defined at the collective level, and the agents' population is modeled via nonlinear PDEs, sidestepping the curse of dimensionality. Check it out [here](https://www.sciencedirect.com/science/article/pii/S0005109826001081) !
 * September 2025: I won the "Best Ph.D. Thesis" award from the Italian society of professors and researchers in automatic control (SIDRA)
 
