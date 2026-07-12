@@ -19,8 +19,10 @@ News
 ======
 * July 2026: **Two new papers accepted in IEEE Control Systems Letters**<br>
   I am happy to share that two new papers have been published in *IEEE Control Systems Letters*:
-  * **C. Tomaselli, G.C. Maffettone, S. Wu Fung, L. Nurbekyan, M. di Bernardo**, “[Mean-field control barrier functions for stochastic multi-agent systems](https://ieeexplore.ieee.org/abstract/document/11574638),” 2026.
-  * **D. Salzano, G.C. Maffettone, M. di Bernardo**, “[Robust multi-scale leader-follower control of large multi-agent systems](https://ieeexplore.ieee.org/abstract/document/11556503),” 2026.
+  <ul>
+    <li><strong>C. Tomaselli, G.C. Maffettone, S. Wu Fung, L. Nurbekyan, M. di Bernardo</strong>, “<a href="https://ieeexplore.ieee.org/abstract/document/11574638">Mean-field control barrier functions for stochastic multi-agent systems</a>,” 2026.</li>
+    <li><strong>D. Salzano, G.C. Maffettone, M. di Bernardo</strong>, “<a href="https://ieeexplore.ieee.org/abstract/document/11556503">Robust multi-scale leader-follower control of large multi-agent systems</a>,” 2026.</li>
+  </ul>
   Both papers will also be presented at **CDC 2026** in Honolulu, Hawaii.<br>
   These works look at different aspects of the control of large-scale multi-agent systems, from safety guarantees in stochastic settings to robust multi-scale leader-follower strategies.
 * February 2026: New paper out on Automatica! In this work, with Alain Boldini (NYIT), Maurizio Porfiri (NYU) and Mario di Bernardo (UNINA) we propose a bio-inspired leader-follower strategy for density control of multi-agent swarms. The key idea: rather than prescribing fixed roles, leaders and followers can plastically switch their roles over time, much as many natural systems do. Control objectives are defined at the collective level, and the agents' population is modeled via nonlinear PDEs, sidestepping the curse of dimensionality. Check it out [here](https://www.sciencedirect.com/science/article/pii/S0005109826001081) !
