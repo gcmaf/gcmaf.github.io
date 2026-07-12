@@ -18,7 +18,7 @@ I obtained a Ph.D. in Modeling and Engineering Risk and Complexity at Scuola Sup
 News
 ======
 * July 2026: **Two new papers accepted in IEEE Control Systems Letters**<br>
-  I am happy to share that two new papers have been accepted for publication in *IEEE Control Systems Letters*:
+  I am happy to share that two new papers have been published in *IEEE Control Systems Letters*:
   * **C. Tomaselli, G.C. Maffettone, S. Wu Fung, L. Nurbekyan, M. di Bernardo**, “[Mean-field control barrier functions for stochastic multi-agent systems](https://ieeexplore.ieee.org/abstract/document/11574638),” 2026.
   * **D. Salzano, G.C. Maffettone, M. di Bernardo**, “[Robust multi-scale leader-follower control of large multi-agent systems](https://ieeexplore.ieee.org/abstract/document/11556503),” 2026.
   Both papers will also be presented at **CDC 2026** in Honolulu, Hawaii.<br>
