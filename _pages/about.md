@@ -17,6 +17,7 @@ I obtained a Ph.D. in Modeling and Engineering Risk and Complexity at Scuola Sup
 
 News
 ======
+* September 2026: My paper “[Leader-Follower Density Control of Spatial Dynamics in Large-Scale Multi-Agent Systems](https://ieeexplore.ieee.org/document/10980336),” with A. Boldini (NYIT), M. Porfiri (NYU), and M. di Bernardo (UNINA), is one of the three finalists for the “Best Young Author Journal Paper” award by the Italian Chapter of the IEEE Control Systems Society!
 * July 2026: **Two new papers accepted in IEEE Control Systems Letters**<br>
   I am happy to share that two new papers have been published in *IEEE Control Systems Letters*:
   <ul>
